@@ -1,5 +1,5 @@
 """
-UGANDA_DISCOVERY_FINAL_2.py
+discovery_pipeline.py
 Discovery: RFE on Uganda DETs to optimal signature
 """
 
