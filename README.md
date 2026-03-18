@@ -1,4 +1,4 @@
-## Transcriptomic signature for TB diagnosis in HIV-coinfected children
+## Transcriptomic signature for HIV-TB coinfection in African children
 A minimal blood-based transcriptomic signature for diagnosing active tuberculosis in HIV-infected populations. Developed using data from Uganda and validated across two independent cohorts Southern Africa (Botswana and Eswatini) and India.
 
 ### Scripts
