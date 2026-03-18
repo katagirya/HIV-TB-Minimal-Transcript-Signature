@@ -3,6 +3,7 @@ A minimal blood-based transcriptomic signature for diagnosing active tuberculosi
 
 ### Scripts
 - discovery_pipeline.py : Main RFE pipeline
+- validate_signature.py : performs validation in African and external cohort
 - complete_covariate_comparison.py : compares performance of different features - transcripts, covariates and combination
 
 
